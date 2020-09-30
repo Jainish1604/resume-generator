@@ -1,6 +1,6 @@
 # resume-template
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+*A simple Jekyll + GitHub Pages powered resume template to  make your life it simple.*
 
 ![img](images/screenshot.png)
 
@@ -15,7 +15,7 @@ To test locally, run the following in your terminal:
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
-### Customizing
+### Customizing guidelines
 
 First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
